@@ -60,7 +60,7 @@ accessible, and interactive user interfaces using modern web technologies.
 ## 📂 Repository Structure
 
 ```text
-📁 meta-frontend-developer/
+📁 meta-frontend-dev-coursera/
 │
 ├── 📁 html-css-basics/
 ├── 📁 javascript/
